@@ -10,6 +10,7 @@ Desenvolvimento Web:
 HTML & CSS: Estrutura e estilização de interfaces.
 
 Meus Projetos
+
 PontoCerto: Uma ferramenta em desenvolvimento para praticar o cálculo de horas trabalhadas, considerando dias normais, feriados e domingos. O objetivo é gerar relatórios detalhados para ajudar profissionais e empresas.
 
 LinkedIn: https://www.linkedin.com/in/desenvolvedoramarialuiza/
