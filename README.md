@@ -1,4 +1,4 @@
-## Sou a Louie, estudante de Análise e Desenvolvimento de Sistemas. Tenho paixão por transformar ideias em soluções tecnológicas e estou sempre buscando aprender e aprimorar minhas habilidades.
+## Sou a Malu, estudante de Análise e Desenvolvimento de Sistemas. Tenho paixão por transformar ideias em soluções tecnológicas e estou sempre buscando aprender e aprimorar minhas habilidades.
 
 Minhas Habilidades
 
